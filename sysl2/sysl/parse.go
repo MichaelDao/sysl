@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
-	"github.com/anz-bank/sysl/src/proto"
-	"github.com/anz-bank/sysl/sysl2/sysl/grammar"
+	sysl "github.com/anz-bank/sysl/src/proto"
+	parser "github.com/anz-bank/sysl/sysl2/sysl/grammar"
 	"github.com/sirupsen/logrus"
 )
 
